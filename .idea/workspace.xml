@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6b472cd-a030-4468-8ba1-2172184a8561" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Expressoes_regulares/aula002_modulo_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/Ex021.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/melhores_praticas/enumerat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/.idea/Exercicio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/Exercicio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex000.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex018.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex019.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex021.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Expressoes_regulares/aula001_modulo_re.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio/Ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/Ex021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula12" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kwMqRXqU9NZoULh9GAGYR7dSEM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.aula001_modulo_re">
+    <configuration name="Ex020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentos_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio/Ex020.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula001_modulo_re" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentos_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Expressoes_regulares" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Expressoes_regulares/aula001_modulo_re.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula001_modulo_re" />
+        <item itemvalue="Python.Ex020" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6b472cd-a030-4468-8ba1-2172184a8561" name="Default Changelist" comment="" />
+      <created>1606607392616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606607392616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="85" key="#Inspections" timestamp="1606672662109">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="274" y="85" key="#Inspections/0.0.1280.800@0.0.1280.800" timestamp="1606672662109" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom" timestamp="1606680339141">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1606674447112" />
+    <state width="1259" height="212" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1606680339141" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center" timestamp="1606680339140">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1606674447111" />
+    <state width="1259" height="212" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1606680339140" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left" timestamp="1606680339139">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1606674447110" />
+    <state width="1259" height="212" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1606680339139" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right" timestamp="1606680339140">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1606674447112" />
+    <state width="1259" height="212" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1606680339140" />
+  </component>
+</project>

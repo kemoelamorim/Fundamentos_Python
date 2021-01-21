@@ -5,7 +5,7 @@ from random import shuffle
 alunos = []
 
 for i in range(4):
-    i = input("Digite o nome do aluno: ")
-    alunos.append(i)
+    item = input("Digite o nome do aluno: ")
+    alunos.append(item)
 (shuffle(alunos))
 print(alunos)
